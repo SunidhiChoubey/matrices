@@ -1,4 +1,4 @@
-# Experiment 8 :- To study and implement C++ 2D Array - Matrices
+# Experiment 8 
 ## AIM: - To study and implement C++ 2D Array - Matrices
 ## Theory: -
 Arrays can be categorised in 2 types as follows: -
@@ -255,6 +255,8 @@ int main()
 }
 ~~~
 Code Ouput: -
+![](https://github.com/SunidhiChoubey/matrices/blob/main/Screenshot%202024-08-20%20011152.png)
+![](https://github.com/SunidhiChoubey/matrices/blob/main/Screenshot%202024-08-20%20011201.png)
 
 
 Conclusion: -
